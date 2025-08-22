@@ -12,7 +12,7 @@ pip3 install torch
 All hyperparameters are located within `train.py`. Adjust them as you like, then start training with:
 
 ```bash
-python train.py
+python3 train.py
 ```
 
 That's all! Training typically completes in about 15 minutes on a single RTX 3090 GPU.
